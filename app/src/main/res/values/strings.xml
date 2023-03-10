@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OSMApp</string>
+    <string name="red_square">Красная площадь</string>
+    <string name="where_am">Где я?</string>
 </resources>
